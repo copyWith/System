@@ -1,8 +1,8 @@
 
  <p style="font-weight: 600;">小白电脑：</p>
  <span style="color: #666;">
-一切的前提是安装node(https://nodejs.org/en/download/)，作<br/>
-为一个命令行工具才可进行,安装node-v6.9.2-x64.msi，具体可参照<br/>
+一切的前提是安装node(https://nodejs.org/en/download/)<br/>
+作为一个命令行工具才可进行,安装node-v6.9.2-x64.msi，具体可参照<br/>
 https://www.cnblogs.com/zhouyu2017/p/6485265.html<br/>
 <br/>
 环境配置好：<br/>
