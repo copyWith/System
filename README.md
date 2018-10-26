@@ -20,4 +20,3 @@ npm run start (npm run dev)<br/>
         浏览器进入：<br/>
 localhost:8080<br/></span>
 </div>
-<p style="color: #999;">声明：此后台管理系统是仿照阿里云控制台，侵删</p>
